@@ -5,7 +5,7 @@ import sqlite3
 from PyQt5.QtWidgets import (
     QApplication, QMainWindow, QLabel, QLineEdit, QPushButton, QListWidget, QVBoxLayout, QHBoxLayout, QWidget, QMessageBox
 )
-from PyQt5.QtCore import Qt
+
 import webbrowser
 
 TMDB_API_KEY = "INSERT TMDB API KEY HERE"
