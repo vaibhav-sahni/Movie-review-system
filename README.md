@@ -1,3 +1,5 @@
+***GUI BASED MOVIE REVIEW SYSTEM USING SQLITE3***
+
 GUI based Movie review system created in Python.
 Used sqlite3 to establish review database.
 Used PyQT5 to create a GUI for watching trailers and leaving reviews
